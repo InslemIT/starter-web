@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 Sample website with plenty of files for demos
 
 ## Deployment
+
+Our sample project is ready to be deployed on any web server 
